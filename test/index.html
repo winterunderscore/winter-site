@@ -1,0 +1,28 @@
+<script>
+	fetch('https://api.ipify.org?format=json')
+	.then(res => res.json())
+	.then(data => {
+		let a = '';
+
+    		for (let i = 0; i < data.ip.length; i++) {
+        		const b = data.ip.charCodeAt(i) ^ 255;
+        		a += b.toString(16).padStart(2, '0');
+        		if (i !== data.ip.length - 1) {
+            			a += '-';
+        		}
+    		}
+		document.write(a);
+	})
+
+	window.funny = function(a) {
+		let b = '';
+
+   		const chunks = a.split('-');
+    		for (let i = 0; i < chunks.length; i++) {
+       			const c = String.fromCharCode(parseInt(chunks[i], 16) ^ 255);
+        		b += c;
+    		}
+
+    		return b;
+	}
+</script>
