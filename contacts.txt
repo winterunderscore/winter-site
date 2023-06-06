@@ -1,16 +1,22 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
+
 Discord: winter_#6510 (1019378156571992176)
 Github: @winterunderscore
 Telegram: @winterunderscore
 Twitter: @winterunderscor
-Last Updated: May 29, 2023
+Email: winterbreeze@waifu.club
+PGP: https://walid.sytes.net/winter/pgp.txt
+- - Fingerprint: B2C2 C15A 67A3 0121 A9F6 27B1 BEED 95FA 7805 DC55
+
+Monero: 43GYTCiVTo7ASEqM3x3EK5XXADwbXqUC3ZVyc5pVWdaTaKN35ekDwryY7ie5H981jz4zhp5LUTEdp44iK5KLXy4k6uQa1r9
+
+Last Updated: June 6, 2023
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSywsFaZ6MBIan2J7G+7ZX6eAXcVQUCZHSjvgAKCRC+7ZX6eAXc
-VViiAQDf+5yc3VZq37VKARRuZmVU2HcFBCkcGthhy72GWn/TxAEAmAl53L9CJuJd
-wMIxEeiu7+rhxSh0MKrAUgmIJA9d1AI=
-=oxn8
+iHUEARYKAB0WIQSywsFaZ6MBIan2J7G+7ZX6eAXcVQUCZH62QwAKCRC+7ZX6eAXc
+VS+nAQCDEdCXIC4DMyw+Ty8kqIA0pmFIsbA2EhKQX/Igtm0LIQEA6k45JpWPq24L
+mPSrGquZ/TlaCwtFeHDoEDNQHo/V+w8=
+=O97r
 -----END PGP SIGNATURE-----
-
